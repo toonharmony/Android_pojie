@@ -1,7 +1,7 @@
 # Android_pojie
 
 由于百度云盘经常被和谐，请联系VX: wang2021008
-+好友请写暗号:github; 否则不予通过
+加好友请写暗号:github; 否则不予通过
 
 鱼C工作室Android安卓逆向培训第一期
 -
